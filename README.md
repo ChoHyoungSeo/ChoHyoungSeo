@@ -7,6 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoHyoungSeo&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/chohyoungseo) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:whgudtj1200@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoungseo-cho/)](https://www.linkedin.com/in/hyoungseo-cho/)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FChoHyoungSeo&label=visitors&icon=github&color=%230dcaf0)
 
 <!--[![CV Badge](https://img.shields.io/badge/MY%20CV-555263?style=flat&logoColor=white)](https://) -->
 <!--[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/...)  -->
