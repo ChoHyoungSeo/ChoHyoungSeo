@@ -41,6 +41,7 @@
  - 🏆 Data Creator Camp(Machine Learning, DeepLearning competition)
  - ✨ [Mentoring Project] Best review/postscript Essay Paper Award (invited talk: La Place)
  - 💡 Creative Problem Solving Festival Special Award
+ - 💰 2025 MD WINNERS Hackathon Contest 1<sup>st</sup> Prize *(by MD Winners, various SNU institutions, SoomBit AI, Connective, NAVER, and KAIST)*
 
 
 ### Patent/Copyright
@@ -65,6 +66,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chohyoungseo&count_private=True" height="165">
 
 <!-- # 종류
+- :moneybag: 2025 MD WINNERS Hackathon Contest 1st Prize ![Sponsors](https://img.shields.io/badge/Sponsors-SoomBit_AI_Connective_NAVER_KAIST-green)
+ ![Organizer](https://img.shields.io/badge/Organizer-MD_Winners-blue) ![Host](https://img.shields.io/badge/Host-SNU_Convergence_Medicine-green)
 profile-3d-contrib/profile-green-animate.svg
 profile-3d-contrib/profile-green.svg
 profile-3d-contrib/profile-season-animate.svg
@@ -75,7 +78,12 @@ profile-3d-contrib/profile-night-view.svg
 profile-3d-contrib/profile-night-green.svg
 profile-3d-contrib/profile-night-rainbow.svg
 profile-3d-contrib/profile-gitblock.svg
-
+- 💡 Creative Problem Solving Festival Special Award
+- 💰 2025 MD WINNERS Hackathon Contest 1st Prize
+  - **Organized by:** MD Winners
+  - **Hosted by:** Seoul National University Convergence Medicine & Technology Institute, Seoul National University Start-up Support Foundation, Seoul National University Campus Town Project
+  - **Sponsored by:** SoomBit AI, Connective, NAVER
+  - **Supported by:** Seoul National University Hospital Department of Convergence Medicine, Seoul National University Medical AI Convergence Talent Development Program, KAIST KE
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
